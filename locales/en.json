@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "contact": "Contact Me",
+    "email": {
+      "label": "Email",
+      "placeholder": "How may I reach you?"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "What's on your mind?"
+    },
+    "name": {
+      "label": "Name",
+      "placeholder": "Who may I say is calling?"
+    },
+    "result": {
+      "danger": "Unable to send message.",
+      "success": "Message sent. I'll be in touch shortly."
+    },
+    "send": "Send Message",
+    "subject": {
+      "label": "Subject",
+      "placeholder": "What is this about?"
+    }
+  },
+  "home": {
+    "cybersecurity": "Cybersecurity Enthusiast",
+    "freethinker": "Free Thinker",
+    "getintouch": "Get in touch.",
+    "introduction": "All of these are integrated into my personality and professional work. I have over twenty years experience coding and learn more each day about my craft. I love efficient and elegant code that is safe and secure. Each day, I take time to smile as I take on the new challenges code constantly present.",
+    "soundgood": "Sound interesting? Have questions?",
+    "teacher": "Teacher",
+    "trekkie": "Trekkie",
+    "webdev": "Web Developer",
+    "whoami": "Who am I? I am a:"
+  },
+  "nav": {
+    "alt": "Cambiar Idioma al Español",
+    "contact": "Contact",
+    "en": "English",
+    "es": "Español",
+    "home": "Home",
+    "resume": "Resume",
+    "toggle": "Open Navigation"
+  }
+}

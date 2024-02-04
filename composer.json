@@ -1,7 +1,14 @@
 {
-	"require": {
-		"google/recaptcha": "@stable",
-		"mailgun/mailgun-php": "@stable",
-		"php-http/guzzle6-adapter": "@stable"
-	}
+  "php": ">= 8.1",
+  "require": {
+    "google/recaptcha": "@stable",
+    "mailgun/mailgun-php": "@stable",
+    "php-http/guzzle7-adapter": "@stable",
+    "vlucas/phpdotenv": "@stable"
+  },
+  "config": {
+    "allow-plugins": {
+      "php-http/discovery": true
+    }
+  }
 }

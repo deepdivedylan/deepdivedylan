@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "contact": "Contáctame",
+    "email": {
+      "label": "Correo Electrónico",
+      "placeholder": "¿Cómo te puedo hablar de regreso?"
+    },
+    "message": {
+      "label": "Mensaje",
+      "placeholder": "Cuéntame algo"
+    },
+    "name": {
+      "label": "Nombre",
+      "placeholder": "¿Quién habla?"
+    },
+    "result": {
+      "danger": "No se pudo mandar en mensaje.",
+      "success": "Mensaje enviado. Estamos en contacto."
+    },
+    "send": "Mandar Mensaje",
+    "subject": {
+      "label": "Asunto",
+      "placeholder": "¿De qué se trata?"
+    }
+  },
+  "home": {
+    "cybersecurity": "Entusiasta de la Ciberseguridad",
+    "freethinker": "Librepensador",
+    "getintouch": "Ponte en contacto.",
+    "introduction": "Todo ello integrado en mi personalidad y labor profesional. Tengo más de veinte años de experiencia desarrollando sitios web y cada día aprendo más sobre mi oficio. Me encanta el código eficiente y elegante que sea seguro y protegido. Cada día, me tomo el tiempo para sonreír mientras aprendo sobre nuevo código de mientras conquisto desafíos que desarollar sitios constantemente me presente.",
+    "soundgood": "¿Suena interesante? ¿Tiene preguntas?",
+    "teacher": "Profesor",
+    "trekkie": "Fanático de Viaje a las Estrellas",
+    "webdev": "Desarollador de Sitios Web",
+    "whoami": "¿Quién soy? Soy un:"
+  },
+  "nav": {
+    "alt": "Change Language to English",
+    "contact": "Contacto",
+    "en": "English",
+    "es": "Español",
+    "home": "Inicio",
+    "resume": "Currículum",
+    "toggle": "Abrir Navigación"
+  }
+}

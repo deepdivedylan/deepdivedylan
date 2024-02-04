@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grecaptcha-badge {
+    visibility: hidden;
+}
+
+li.list-svg::marker {
+    font-size: 2em;
+    line-height: 0.1;
+}
+
+li.list-svg-envelope {
+    list-style-image: url('/images/bullets/envelope.svg');
+}
+
+li.list-svg-github {
+    list-style-image: url('/images/bullets/github.svg');
+}
+
+li.list-svg-link {
+    list-style-image: url('/images/bullets/link.svg');
+}
+
+li.list-svg-linkedin {
+    list-style-image: url('/images/bullets/linkedin.svg');
+}
+
+li.list-svg-x {
+    list-style-image: url('/images/bullets/x.svg');
+}
